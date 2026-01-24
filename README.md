@@ -1,6 +1,8 @@
 # 💫 Hi 👋, I'm Md Najish Anjum
 **A passionate AI/ML enthusiast building intelligent systems and exploring Web3 innovation.|| Team Lead Team ILM Tech**
 
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
 Email Me 👉 ✉️ **najishanjum058@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Bew3 — a Web3-focused community and blockchain initiative 
@@ -11,6 +13,10 @@ Email Me 👉 ✉️ **najishanjum058@gmail.com** For Collaboration/Project or A
 - 📫 **How to reach me:** najishanjum058@gmail.com
 - 😄 **Pronouns:** Najish
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/najish.official1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Md-Najish-Anjum) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Najish_anjum) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:najishanjum058@gmail.com) 
@@ -30,6 +36,10 @@ Email Me 👉 ✉️ **najishanjum058@gmail.com** For Collaboration/Project or A
 ![](https://github-readme-stats.vercel.app/api?username=Najishanjum&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Najishanjum&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Najishanjum&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### 🏆 My Badges (Holopin)
+[![An image of @najishanjum's Holopin badges](https://holopin.me/najishanjum)](https://www.holopin.io/@najishanjum#badges)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
