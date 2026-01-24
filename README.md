@@ -40,15 +40,21 @@ Email Me 👉 ✉️ **najishanjum058@gmail.com** For Collaboration/Project or A
 ### 🏆 My Badges (Holopin)
 [![An image of @najishanjum's Holopin badges](https://holopin.me/najishanjum)](https://www.holopin.io/@najishanjum#badges)
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Najishanjum&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=Najishanjum&icon=0&color=0)](https://visitcount.itsvg.in)
+### ⭐ Show some love by starring my repositories!
+<p align="center">
+  <img src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/footer.png"/>
+</p>
+</div>
+<h4 align="center">
+
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/najishanjum) 
