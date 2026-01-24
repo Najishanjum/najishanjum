@@ -38,7 +38,8 @@ Email Me 👉 ✉️ **najishanjum058@gmail.com** For Collaboration/Project or A
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Najishanjum&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🏆 My Badges (Holopin)
-[![An image of @najishanjum's Holopin badges](https://holopin.me/najishanjum)](https://www.holopin.io/@najishanjum#badges)
+[![Holopin Badge](https://holopin.me/najishanjum)](https://holopin.io/@najishanjum)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -55,6 +56,13 @@ Email Me 👉 ✉️ **najishanjum058@gmail.com** For Collaboration/Project or A
 <h4 align="center">
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
+
+<div align="center">
+  <a href="#">
+  <img alt="Thanks for visiting!" 
+       src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&duration=2500&color=00FFAA&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Have+a+great+day,+Coder!">
+    </a>
+</div>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/najishanjum) 
