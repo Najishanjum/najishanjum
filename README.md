@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **najishanjum058@gmail.com** For Collaboration/Project or A
 - 💬 **Ask me about:** Collaboration, Web3, Open Source, Community Building, and Tech Support 
 - 📫 **How to reach me:** najishanjum058@gmail.com
 - 😄 **Pronouns:** Najish
-- ⚡ **portfolio** ![https://najish-anjum-portfolio.vercel.app/]
+- ⚡ **portfolio** https://najish-anjum-portfolio.vercel.app/
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
