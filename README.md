@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **najishanjum058@gmail.com** For Collaboration/Project or A
 - 🔭 **I’m currently working on:** Bew3 — a Web3-focused community and blockchain initiative 
 - 🌱 **I’m currently learning:** Blockchain fundamentals, Web3 architecture, Smart Contracts, and AI × Web3 integrations
 - 👯 **I’m looking to collaborate on:** Web3, Blockchain, AI/ML, Open-source projects, and Hackathons
-- 🤔 **I’m looking for help with:** Scaling Bew3, smart contract development, and Web3 infrastructure  
+- 🤔 **I’m looking for help with:** Scaling Bew3, smart contract development, and Web3 
 - 💬 **Ask me about:** Collaboration, Web3, Open Source, Community Building, and Tech Support 
 - 😄 **Pronouns:** Najish
 - ⚡ **portfolio** https://najish-anjum-portfolio.vercel.app/
