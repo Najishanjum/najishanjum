@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **najishanjum058@gmail.com** For Collaboration/Project or A
 - 👯 **I’m looking to collaborate on:** Web3, Blockchain, AI/ML, Open-source projects, and Hackathons
 - 🤔 **I’m looking for help with:** Scaling Bew3, smart contract development, and Web3 
 - 💬 **Ask me about:** Collaboration, Web3, Open Source, Community Building, and Tech Support 
-- 😄 **Pronouns:** Najish
+- 😄 **Pronouns:** Najish Sanu
 - ⚡ **portfolio** https://najish-anjum-portfolio.vercel.app/
 
 <div id="header" align="center">
